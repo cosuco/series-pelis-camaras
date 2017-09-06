@@ -5,7 +5,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/cosuco/series-pelis-camaras/master/series.xml</externallink>
 </item>
  
 <item>
@@ -13,7 +13,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/cosuco/series-pelis-camaras/master/peliculas.xml</externallink>
 </item>
  
 <item>
@@ -21,6 +21,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/cosuco/series-pelis-camaras/master/camaras.xml</externallink>
 </item>
  
